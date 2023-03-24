@@ -59,3 +59,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#some asset libs for char and anim
+/[Aa]ssets/Fighter Pack Bundle FREE
+/[Aa]ssets/FourEvilDragonsPBR
